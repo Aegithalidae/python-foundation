@@ -4,3 +4,6 @@ pycrash-course/
 # Python cache
 __pycache__/
 *.pyc
+
+# vscode settings
+.vscode/settings.json
