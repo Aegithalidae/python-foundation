@@ -5,5 +5,11 @@ pycrash-course/
 __pycache__/
 *.pyc
 
-# vscode settings
-.vscode/settings.json
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+
+# System files
+.DS_Store
